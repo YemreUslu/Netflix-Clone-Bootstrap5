@@ -1,0 +1,5 @@
+$(function () {
+
+    $('.owl-carousel').owlCarousel();
+
+});
